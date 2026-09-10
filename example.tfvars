@@ -1,0 +1,5 @@
+azure_subscription_id = "00000000-0000-0000-0000-000000000000"
+gcp_project_id        = "my-gcp-project"
+hostname              = "app.terraform.io"
+name                  = "dyncreds-hcp"
+organization          = "my-org"

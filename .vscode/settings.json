@@ -1,0 +1,28 @@
+{
+  "[terraform]": {
+    "editor.defaultFormatter": "hashicorp.terraform"
+  },
+  "[tfvars]": {
+    "editor.defaultFormatter": "hashicorp.terraform"
+  },
+  "editor.bracketPairColorization.enabled": true,
+  "editor.formatOnSave": true,
+  "editor.guides.bracketPairs": "active",
+  "editor.rulers": [
+    {
+      "color": "#A5FF90",
+      "column": 80
+    },
+    {
+      "color": "#FF628C",
+      "column": 100
+    }
+  ],
+  "editor.tabCompletion": "on",
+  "editor.tabSize": 2,
+  "files.associations": {
+    "*.sh.tmpl": "shellscript"
+  },
+  "files.trimTrailingWhitespace": true,
+  "terraform.languageServer.enable": true
+}
